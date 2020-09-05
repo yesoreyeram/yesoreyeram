@@ -4,7 +4,7 @@ I am **Sriramajeyam Sugumaran**. Full stack web solutions engineer with experien
 
 ## Skills & Tools
 
-**Web:** HTML, Javascript, NodeJS, VueJS and relevant web technologies.
+**Web:** HTML, Javascript, NodeJS, Typescript VueJS and relevant web technologies.
 
 **Cloud:** Microsoft Azure, Google Firebase
 
