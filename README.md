@@ -27,7 +27,7 @@ Here is the list of my recent contributions to open source / Grafana COmmunity.
 - [Service Now Datasource for Grafana](https://github.com/yesoreyeram/grafana-servicenow-datasource)
 - [Azure dashboard templates for Grafana](https://github.com/yesoreyeram/grafana-azure-dashboards)
 - [Grafana utils](https://github.com/yesoreyeram/grafana-utils)
-- [Scraping Datasource for Grafana](https://github.com/yesoreyeram/grafana-scraping-datasource) - Work in progress
+- [Infinity Datasource for Grafana](https://github.com/yesoreyeram/grafana-infinity-datasource) - Work in progress
 - [Azure devops Datasource for Grafana](https://github.com/yesoreyeram/grafana-azure-devops-datasource) - Work in progress
 - [Octopus Datasource for Grafana](https://github.com/yesoreyeram/grafana-octopus-datasource) - Work in progress
 
