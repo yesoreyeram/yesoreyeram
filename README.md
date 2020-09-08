@@ -19,15 +19,15 @@ I am **Sriramajeyam Sugumaran**. Full stack web solutions engineer with experien
 Here is the list of my recent contributions to open source / Grafana COmmunity.
 
 - [Boom Table panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomtable-panel)
-- [Boom Theme panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel)
-- [Boom Comments panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomcomments-panel)
-- [Boom Summmary panel for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomsummary-panel)
 - [Azure Plus Datasource for Grafana](https://github.com/yesoreyeram/grafana-azure-datasource)
 - [New Relic Datasource for Grafana](https://github.com/yesoreyeram/grafana-newrelic-datasource)
 - [Service Now Datasource for Grafana](https://github.com/yesoreyeram/grafana-servicenow-datasource)
+- [Boom Theme panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel)
 - [Azure dashboard templates for Grafana](https://github.com/yesoreyeram/grafana-azure-dashboards)
 - [Grafana utils](https://github.com/yesoreyeram/grafana-utils)
 - [Infinity Datasource for Grafana](https://github.com/yesoreyeram/grafana-infinity-datasource) - Work in progress
+- [Boom Comments panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomcomments-panel)
+- [Boom Summmary panel for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomsummary-panel)
 - [Azure devops Datasource for Grafana](https://github.com/yesoreyeram/grafana-azure-devops-datasource) - Work in progress
 - [Octopus Datasource for Grafana](https://github.com/yesoreyeram/grafana-octopus-datasource) - Work in progress
 
