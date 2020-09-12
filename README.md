@@ -16,7 +16,7 @@ I am **Sriramajeyam Sugumaran**. Full stack web solutions engineer with experien
 
 ## Recent contributions to Grafana Community
 
-Here is the list of my recent contributions to open source / Grafana COmmunity.
+Here is the list of my recent contributions to open source / Grafana Community.
 
 - [Boom Table panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomtable-panel)
 - [Azure Plus Datasource for Grafana](https://github.com/yesoreyeram/grafana-azure-datasource)
