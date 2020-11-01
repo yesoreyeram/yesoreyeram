@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/153843/92300443-a8688400-ef52-11ea-9fba-10b6574b68a4.png)
-
-I am **Sriramajeyam Sugumaran**. Full stack web solutions engineer with experience in cloud technologies, performance engineering, devops and monitoring tools. I am from Chennai, India. Currently living in London.
+I am **Sriram**. Full stack web solutions engineer with experience in cloud technologies, performance engineering, devops and monitoring tools. I am from Chennai, India. Currently living in London.
 
 ## Skills & Tools
 
