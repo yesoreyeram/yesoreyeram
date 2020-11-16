@@ -27,6 +27,7 @@ Here is the list of my recent contributions to open source / Grafana Community.
 - [Infinity Panel for Grafana](https://github.com/yesoreyeram/grafana-infinity-panel)
 - [Boom Comments panel plugin for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomcomments-panel)
 - [Boom Summmary panel for Grafana](https://github.com/yesoreyeram/yesoreyeram-boomsummary-panel)
+- [CircleCI Datasource for Grafana](https://github.com/yesoreyeram/grafana-circleci-datasource) - Private
 - [Azure devops Datasource for Grafana](https://github.com/yesoreyeram/grafana-azure-devops-datasource) - Work in progress
 - [Octopus Datasource for Grafana](https://github.com/yesoreyeram/grafana-octopus-datasource) - Work in progress
 
